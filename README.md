@@ -29,7 +29,7 @@ Portfolio repository-Quantum optics(QD-MNP) ,coding projects, freelance portfoli
 ---
 
 ## 📄 Resume
-📎 [Download Resume](resume.pdf)
+📎 [Download Resume](Jahanzaib SG Blue Resume.pdf)
 
 ---
 
