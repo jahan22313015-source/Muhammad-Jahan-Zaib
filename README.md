@@ -36,6 +36,7 @@ Portfolio repository-Quantum optics(QD-MNP) ,coding projects, freelance portfoli
 
 ## 🤝 Connect with Me
 - GitHub: [github.com/jahanzaib233015](https://github.com/jahanzaib233015)  
-- LinkedIn: (add your link)  
+- LinkedIn: (https://www.linkedin.com/in/jahanzaib-ali-rajpoot-b2614913a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - WordPress Portfolio: (add your link)  
-- Email: (your email)
+- Email: (jahan.22313015@ele.qau.edu.pk)
+  
