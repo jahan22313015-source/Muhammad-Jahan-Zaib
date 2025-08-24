@@ -3,14 +3,14 @@ Portfolio repository-Quantum optics(QD-MNP) ,coding projects, freelance portfoli
 # 👋 Hi, I'm Muhammad Jahanzaib
 
 🎓 *MPhil Electronics Engineering* — specialized in *Quantum Optics* and *QD–MNP applications*  
-💡 Passionate about *simulation, coding, and freelancing*  
+💡 Passionate about *simulation, coding, and freelancing,Scientific writing,repot writing on latex*  
 🌐 Building bridges between *academic research* and *practical applications*
 
 ---
 
 ## 🔬 Skills & Research
 - Quantum Optics & Nanophotonics (QD–MNP interactions, Fano resonance)
-- Numerical Simulation using *Python (QuTiP, NumPy, Matplotlib)*
+- Numerical Simulation using *Python (QuTiP, NumPy, Matplotlib,Mathematica)*
 - WordPress & Freelancing (portfolio sites, integrations)
 - Scientific Writing & Thesis Support
 
@@ -18,7 +18,8 @@ Portfolio repository-Quantum optics(QD-MNP) ,coding projects, freelance portfoli
 
 ## 📂 Projects
 - *QD–MNP Hybrid Simulation*  
-  Resonance fluorescence spectrum with squeezed vacuum using QuTiP  
+  Resonance fluorescence spectrum with squeezed vacuum using QuTiP
+  Resonance  spectrum with  vacuum leading Fano resonance using Mathematica  
 
 - *WordPress JSON Integration*  
   Fetching GitHub project data into WordPress with shortcode  
